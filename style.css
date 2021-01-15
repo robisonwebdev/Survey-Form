@@ -5,9 +5,7 @@ main, footer {
     align-items: center;
 }
 
-
-
-#comments-div {
+#name-div, #email-div, #comments-div {
     display: flex;
     flex-direction: column;
 }
