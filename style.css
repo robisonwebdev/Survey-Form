@@ -11,6 +11,12 @@ main, footer {
     align-items: center;
 }
 
+footer {
+    background-color: #090934;
+    color: #E0E0FB;
+    padding: 15px 0;
+}
+
 #title {
     color: #AEAECB;
 }
