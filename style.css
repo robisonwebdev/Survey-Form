@@ -1,5 +1,6 @@
 body {
     background-color: #2E2FE3;
+    color: #090934;
     margin: 0;
 }
 
@@ -10,12 +11,17 @@ main, footer {
     align-items: center;
 }
 
+#title {
+    color: #AEAECB;
+}
+
 #survey-div {
     width: 100%;
 }
 
 #survey-form {
     background-color: #E0E0FB;
+    padding: 15px;
 }
 
 #name-div, #email-div, #number-div, #dropdown-div, #comments-div, #btn-div {
