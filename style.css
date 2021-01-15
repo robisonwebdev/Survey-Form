@@ -1,8 +1,21 @@
+body {
+    background-color: #2E2FE3;
+    margin: 0;
+}
+
 main, footer {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+#survey-div {
+    width: 100%;
+}
+
+#survey-form {
+    background-color: #E0E0FB;
 }
 
 #name-div, #email-div, #number-div, #dropdown-div, #comments-div, #btn-div {
