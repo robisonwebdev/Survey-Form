@@ -11,6 +11,10 @@ main, footer {
     margin: 15px 0;
 }
 
+#name-label, #email-label, #number-label, #dropdown-label, #comments-label {
+    margin-bottom: 7px;
+}
+
 #submit {
     background-color:#0040ff;
     border: none;
