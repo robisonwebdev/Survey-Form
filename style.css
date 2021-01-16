@@ -3,6 +3,7 @@ body {
     color: #090934;
     margin: 0;
     min-width: 300px;
+    font-family: 'Roboto', sans-serif;
 }
 
 main, footer {
@@ -19,7 +20,13 @@ footer {
 }
 
 #title {
-    color: #AEAECB;
+    color:  #090934;
+    font-size: 3em;
+    font-weight: 700;
+}
+
+#description {
+    color:  #E0E0FB;
 }
 
 #survey-div {
