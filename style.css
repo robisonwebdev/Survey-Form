@@ -80,7 +80,7 @@ footer a:hover {
 
 #submit:hover {
     background-color:#c3073F;
-    color: #white;
+    color: white;
 }
 
 @media only screen and (min-width: 480px) {
