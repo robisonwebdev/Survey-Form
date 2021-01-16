@@ -19,14 +19,25 @@ footer {
     padding: 15px 0;
 }
 
+#title-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 #title {
     color:  #090934;
     font-size: 3em;
     font-weight: 700;
+    margin-bottom: 0;
+    text-align: center;
 }
 
 #description {
     color:  #E0E0FB;
+    margin-bottom: 50px;
+    text-align: center;
 }
 
 #survey-div {
