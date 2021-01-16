@@ -27,7 +27,7 @@ footer {
 }
 
 #title {
-    color:  #090934;
+    color:  #E0E0FB;
     font-size: 3em;
     font-weight: 700;
     margin-bottom: 0;
@@ -68,6 +68,11 @@ footer {
     padding-top: 15px;
     padding-bottom: 15px;
     text-align: center;
+}
+
+#submit:hover {
+    background-color: #0303AA;
+    color: white;
 }
 
 @media only screen and (min-width: 480px) {
