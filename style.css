@@ -19,6 +19,14 @@ footer {
     padding: 15px 0;
 }
 
+footer a {
+    color: #E0E0FB
+}
+
+footer a:hover {
+    font-weight: bold;
+}
+
 #title-div {
     display: flex;
     flex-direction: column;
